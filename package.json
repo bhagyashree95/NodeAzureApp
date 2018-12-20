@@ -1,0 +1,11 @@
+{
+  "name": "nodeazureapp",
+  "version": "1.0.0",
+  "description": "node azure app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bhagyashree",
+  "license": "ISC"
+}
